@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Creative Programmer
+description: Generative Art / New Media
 ---
 
 <!-- Main -->
