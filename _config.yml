@@ -1,6 +1,6 @@
 # site settings
 title: philterSoup
-subtitle: s space on the interwebz
+subtitle: s space on the interwebz 
 email: youremailaddress@gmail.com
 description: null
 baseurl: "/philterSoup" # the subpath of your site, e.g. /blog
@@ -14,8 +14,8 @@ country: United States of America
 phone: (716) 555-5555
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 2
+tiles-source: "pages" # accepts "posts" or "pages"
+tiles-count: 4
 
 # social settings
 500px_url:

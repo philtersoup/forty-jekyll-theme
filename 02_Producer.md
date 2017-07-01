@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Producer & Engineer
 description: Music Production / Audio Engineering
 nav-menu: false
