@@ -2,12 +2,14 @@
 <div id="wrapper">
 
 <!-- Header -->
+{% if page.layout != "home" %}
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
 </header>
+{% endif %}
 
 <!-- Menu -->
 <nav id="menu">
