@@ -23,16 +23,8 @@
 		<header class="major">
 			<h1>{{ post.title }}</h1>
 		</header>
-    {% if post.description %}<p>{{post.description}} </p> {% endif %}
-    {% if post.image %}<span class="spotlights"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>
-    <!-- <a href="{{ post.url }}"> CLICK ME </a> -->
-    <ul class="actions">
-      <li><a href="{{ post.url }}" class="button">Learn more</a></li>
-    </ul>
-    {% endif %}
-
-    <!-- {% if post.date %}<p>{{ post.date }}</p>{% endif %} -->
-
+		{% if post.image %}<span class="spotlights"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+		{% if post.date %}<p>{{ post.date }}</p>{% endif %}
 		<!-- <p>{{ post.content }}</p> -->
                 {% endfor %}
 	</div>
@@ -40,7 +32,7 @@
 
 </div>
 
-
+    {% include scripts.html %}
 
 </body>
 
