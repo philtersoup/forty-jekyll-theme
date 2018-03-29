@@ -16,34 +16,41 @@ description: Generative Art / New Media
 
 <!-- Content -->
 <!-- <h2 id="content">The What</h2> -->
-<p> As a new media artist, I use contemporary technologies to create rich audio-visual experiences focussing on audience <b> Interactivity </b> and <b> Collaboration </b>. My work focusses on heightening the synergy between various systems in a <i> responsive environment </i> where the audience plays a formative role.
-<dl>
-<!-- <ul class >
-
-	<li>Interactivity</li>
-	<li>Collaboration</li>
-	<li>Synergy</li>
-
-</ul> -->
-</dl>
+<p> I use contemporary technologies to create audio-visual experiences focussing on  <b> Interactivity </b> and <b> Autonomy </b>.
 </p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3 class="align-center">Interactivity</h3>
 		<p class="align-justify" >
 		<ul>
-			<li>Systems driven by real-time user input</li>
-			<li>Hardware for physical interaction</li>
-			<li>Web-based interaction </li>
+			<li>Systems driven by a sense of immediacy</li>
+			<li>Hardware development for physical interaction</li>
+			<li>Networked interaction through the Web</li>
 		</ul>
 		</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3 class="align-center">Collaboration</h3>
+		<h3 class="align-center">Autonomy</h3>
 		<p class="align-justify" >
 
+		<ul>
+			<li>Systems exploring stochastic <i> processes </i> </li>
+			<li>Producing complexity out of simple rule-sets</li>
+			<li>Growth and evolution</li>
+		</ul>
 		</p>
 	</div>
+<div> <p>
+	I work in the domain of:
+	<ul>
+	<li> <strong>Audio-Visual Installations </strong></li>
+	<li> <strong>Audio-Visual Pieces</strong> </li>
+	<li> <strong>Interface Design and Development</strong> </li>
+	</ul>
+	</p>
+	<!-- </div> -->
+
+
 	<!-- Break -->
 	<!-- <div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
@@ -61,13 +68,9 @@ description: Generative Art / New Media
 
 <hr class="major" />
 
-<!-- Elements -->
-<h2 id="elements">Elements</h2>
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
-
 <!-- Text stuff -->
-<h3>Text</h3>
+
+<!-- <h3>Text</h3> -->
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
 This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
