@@ -58,6 +58,15 @@ img {
 			img {
 				width: 100%;
 			}
+      &.centered {
+			display: block;
+			margin: 0 0 2em 0;
+
+			img {
+				margin: 0 auto;
+				width: auto;
+			}
+		}
 
 			@include breakpoint(small) {
 				margin: (_size(element-margin) * 0.75) 0;
