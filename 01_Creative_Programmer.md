@@ -57,7 +57,7 @@ Some of my recent projects are listed <i> below.</i>
 		<div class="4u "> <span class="image fit"><img src="assets/images/crp_rbma_2017_3.jpg" alt="" /></span> </div>
 		</div>
 		<br>
-		<hr class="major" />
+<hr class="major" />
 		<h4>Aesthesis</h4>
 			<i>Networked audio-visual site-specific installation exploring relationships between space, time and audience interaction. London 2017.</i>
 			<div class="row">
@@ -66,3 +66,21 @@ Some of my recent projects are listed <i> below.</i>
 			<div class="4u"> <span class="image centered"><img src="assets/images/crp_aes_2017_2.jpg" alt="" /></span> </div>
 			<div class="4u"> <span class="image centered"><img src="assets/images/crp_aes_2017_1.jpg" alt="" /></span> </div>
 			</div>
+<hr class="major" />
+<h4>Shakespeare <i> in 5.1 </i> </h4>
+			<i>An interactive performance piece featuring voice actors, acoustic instruments & synthesizers; manipulated by a live audience through the web-browser. London 2017.</i>
+			<div class="row">
+			<br>
+			<div class="3u"> <span class="image centered"><img src="assets/images/crp_s51_2017.jpg" alt="" /></span> </div>
+			<div class="3u"> <span class="image centered"><img src="assets/images/crp_s51_2017_1.jpg" alt="" /></span> </div>
+			<div class="3u"> <span class="image centered"><img src="assets/images/crp_s51_2017_2.jpg" alt="" /></span> </div>
+			<div class="3u"> <span class="image centered"><img src="assets/images/crp_s51_2017_3.jpg" alt="" /></span> </div>
+			</div>
+<hr class="major" />
+<h4>Systems</h4>
+			<i> A study in generative composition. Autonomous systems based on pioneering works of Craig Reynolds are modelled using contemporary web technologies and the data is sonified, using real-time synthesis algorithms designed in the Kyma Sound Design Environment. </i>
+			<div class="row">
+			<br>
+			<!-- <div class="4u"> <span class="image centered"><img src="assets/images/crp_s51_2017_2.jpg" alt="" /></span> </div> -->
+			</div>
+<hr class="major" />
