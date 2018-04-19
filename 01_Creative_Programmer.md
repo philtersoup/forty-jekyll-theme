@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Creative Programmer
+title: Creative Technologist
 description: Generative Art / New Media
 ---
 
@@ -11,7 +11,7 @@ description: Generative Art / New Media
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Creative Programmer</h1>
+			<h1>Creative Technologist</h1>
 		</header>
 
 <!-- Content -->
@@ -40,7 +40,7 @@ description: Generative Art / New Media
 		</p>
 	</div>
 <div>
-I work in the domain of:
+I explore the domains of:
 <li> <strong> Audio-Visual Installations  </strong>
 <li> <strong>Audio-Visual Pieces </strong>
 <li> <strong> Interface Design and Development </strong>
@@ -81,6 +81,8 @@ Some of my recent projects are listed <i> below.</i>
 			<i> A study in generative composition. Autonomous systems based on pioneering works of Craig Reynolds are modelled using contemporary web technologies and the data is sonified, using real-time synthesis algorithms designed in the Kyma Sound Design Environment. </i>
 			<div class="row">
 			<br>
-			<!-- <div class="4u"> <span class="image centered"><img src="assets/images/crp_s51_2017_2.jpg" alt="" /></span> </div> -->
+			<div class="4u"> <span class="image centered"><img src="assets/images/crp_flock_2017.png" alt="" /></span> </div>
+			<div class="4u"> <span class="image centered"><img src="assets/images/crp_flock_2017_1.png" alt="" /></span> </div>
+			<div class="4u"> <span class="image centered"><img src="assets/images/crp_flock_2017_2.png" alt="" /></span> </div>
 			</div>
 <hr class="major" />
