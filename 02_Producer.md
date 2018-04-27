@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Producer & Engineer
-description: Music Production and Engineering
+title: Producer & Media Composer
+description: Music Production and Composition
 ---
 
 <!-- Main -->
@@ -16,7 +16,7 @@ description: Music Production and Engineering
 
 <!-- Content -->
 <!-- <h2 id="content">Sample Content</h2> -->
-<p>Of late, I have been working extensively in <i> Original Sound Tracks </i> for media. I have worked on a variety of projects for film, TV and online releases.</p>
+<p>I specialise in <i> Original Sound Tracks </i> for media. I have worked on a variety of projects for film, TV and online releases.</p>
 
 <p> Working closely with the director, and music director, I am responsible for for the overall aesthetic of the music. Some of my most recent works include:</p>
 <div class="row">

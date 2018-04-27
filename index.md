@@ -1,7 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, I am philterSoup'
+landing-title: 'Creative Technologist and Music Producer working in the domains of sound, visual and form.'
+
 description: null
 image: null
 author: null

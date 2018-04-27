@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creative Technologist
-description: Generative Art / New Media
+description: Computational Art | Interfaces for artistic expression
 ---
 
 <!-- Main -->
@@ -16,7 +16,7 @@ description: Generative Art / New Media
 
 <!-- Content -->
 <!-- <h2 id="content">The What</h2> -->
-<p> I use contemporary technologies to create audio-visual experiences focussing on  <b> Interactivity </b> and <b> Autonomy </b>.
+<p> My work explores audio-visual experiences focussing on  <b> Interactivity </b> and <b> Autonomy </b>.
 </p>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -48,6 +48,15 @@ I explore the domains of:
 <br>
 Some of my recent projects are listed <i> below.</i>
 <hr class="major" />
+<h4>Aesthesis</h4>
+	<i>Networked audio-visual site-specific installation exploring relationships between space, time and audience interaction. London 2017.</i>
+	<div class="row">
+	<br>
+	<div class="4u"> <span class="image centered"><img src="assets/images/crp_aes_2017.jpg" alt="" /></span> </div>
+	<div class="4u"> <span class="image centered"><img src="assets/images/crp_aes_2017_2.jpg" alt="" /></span> </div>
+	<div class="4u"> <span class="image centered"><img src="assets/images/crp_aes_2017_1.jpg" alt="" /></span> </div>
+	</div>
+<hr class="major" />
 	<h4>Red Bull Music Academy: Diggin' in the Carts</h4>
 		<i>Audio Reactive CRT Installation at Fabric, London 2017.</i>
 		<div class="row">
@@ -57,15 +66,6 @@ Some of my recent projects are listed <i> below.</i>
 		<div class="4u "> <span class="image fit"><img src="assets/images/crp_rbma_2017_3.jpg" alt="" /></span> </div>
 		</div>
 		<br>
-<hr class="major" />
-		<h4>Aesthesis</h4>
-			<i>Networked audio-visual site-specific installation exploring relationships between space, time and audience interaction. London 2017.</i>
-			<div class="row">
-			<br>
-			<div class="4u"> <span class="image centered"><img src="assets/images/crp_aes_2017.jpg" alt="" /></span> </div>
-			<div class="4u"> <span class="image centered"><img src="assets/images/crp_aes_2017_2.jpg" alt="" /></span> </div>
-			<div class="4u"> <span class="image centered"><img src="assets/images/crp_aes_2017_1.jpg" alt="" /></span> </div>
-			</div>
 <hr class="major" />
 <h4>Shakespeare <i> in 5.1 </i> </h4>
 			<i>An interactive performance piece featuring voice actors, acoustic instruments & synthesizers; manipulated by a live audience through the web-browser. London 2017.</i>
@@ -84,5 +84,13 @@ Some of my recent projects are listed <i> below.</i>
 			<div class="4u"> <span class="image centered"><img src="assets/images/crp_flock_2017.png" alt="" /></span> </div>
 			<div class="4u"> <span class="image centered"><img src="assets/images/crp_flock_2017_1.png" alt="" /></span> </div>
 			<div class="4u"> <span class="image centered"><img src="assets/images/crp_flock_2017_2.png" alt="" /></span> </div>
+			</div>
+<hr class="major" />
+<h4>Voltage Controlled Video Matrix </h4>
+			<i> A study in physical computing. Banks of high-speed relays glitches 8 x 8 composite video. Can also be used as an 8 Voice Polyphonic Synthesizer at audio, <b> and video </b> rates. </i>
+			<div class="row">
+			<br>
+			<div class="6u"> <span class="image centered"><img src="assets/images/crp_vcvm.png" alt="" /></span> </div>
+			<div class="6u"> <span class="image centered"><img src="assets/images/crp_vcvm_2.png" alt="" /></span> </div>
 			</div>
 <hr class="major" />
