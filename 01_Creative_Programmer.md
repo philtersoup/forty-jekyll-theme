@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creative Technologist
-description: Computational Art | Interfaces for artistic expression
+description: Computational Art | Physical Computing
 ---
 
 <!-- Main -->
@@ -16,36 +16,15 @@ description: Computational Art | Interfaces for artistic expression
 
 <!-- Content -->
 <!-- <h2 id="content">The What</h2> -->
-<p> My work explores audio-visual experiences focussing on  <b> Interactivity </b> and <b> Autonomy </b>.
-</p>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h2 class="align-center">Interactivity</h2>
-		<p class="align-justify" >
-		<ul>
-			<li>Systems driven by a sense of immediacy</li>
-			<li>Hardware development for physical interaction</li>
-			<li>Networked interaction through the Web</li>
-		</ul>
-		</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h2 class="align-center">Autonomy</h2>
-		<p class="align-justify" >
-		<ul>
-			<li>Systems exploring stochastic <i> processes </i> </li>
-			<li>Producing complexity out of simple rule-sets</li>
-			<li>Growth and evolution</li>
-		</ul>
-		</p>
-	</div>
-<div>
+<p>I create  interfaces for artistic expression across sonic and visual mediums.
+ I conceptualise, design and execute projects involving multiple facets of technology, tied together with bespoke hardware and software solutions. My work involves creating visceral experiences focussing on  <b> Interactivity </b> and <b> Autonomy </b>.
 I explore the domains of:
-<li> <strong> Audio-Visual Installations  </strong>
-<li> <strong>Audio-Visual Pieces </strong>
-<li> <strong> Interface Design and Development </strong>
+<li> <strong> Interactive Audio-Visual Installations  </strong>
+<li> <strong> Interactive Audio-Visual Pieces </strong>
+<li> <strong> Physical Interfaces for Sound & Video Synthesis </strong>
 <br>
 <br>
+
 Some of my recent projects are listed <i> below.</i>
 <hr class="major" />
 <h4>Aesthesis</h4>
@@ -68,7 +47,7 @@ Some of my recent projects are listed <i> below.</i>
 		<br>
 <hr class="major" />
 <h4>Shakespeare <i> in 5.1 </i> </h4>
-			<i>An interactive performance piece featuring voice actors, acoustic instruments & synthesizers; manipulated by a live audience through the web-browser. London 2017.</i>
+			<i>An interactive performance piece featuring networked audio, voice actors, acoustic instruments & synthesizers; manipulated by a live audience through mobile web-browsers. London 2017.</i>
 			<div class="row">
 			<br>
 			<div class="3u"> <span class="image centered"><img src="assets/images/crp_s51_2017.jpg" alt="" /></span> </div>
@@ -91,6 +70,6 @@ Some of my recent projects are listed <i> below.</i>
 			<div class="row">
 			<br>
 			<div class="6u"> <span class="image centered"><img src="assets/images/crp_vcvm.png" alt="" /></span> </div>
-			<div class="6u"> <span class="image centered"><img src="assets/images/crp_vcvm_2.png" alt="" /></span> </div>
+			<div class="6u"> <span class="image centered"><img src="assets/images/crp_vcvm_3.png" alt="" /></span> </div>
 			</div>
 <hr class="major" />

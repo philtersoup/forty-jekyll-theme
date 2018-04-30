@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Producer & Media Composer
-description: Music Production and Composition
+description: Music Production | Composition
 ---
 
 <!-- Main -->
@@ -11,14 +11,13 @@ description: Music Production and Composition
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Music Production</h1>
+			<h1>Media Composition</h1>
 		</header>
 
 <!-- Content -->
 <!-- <h2 id="content">Sample Content</h2> -->
-<p>I specialise in <i> Original Sound Tracks </i> for media. I have worked on a variety of projects for film, TV and online releases.</p>
-
-<p> Working closely with the director, and music director, I am responsible for for the overall aesthetic of the music. Some of my most recent works include:</p>
+<p>I compose OST's for film, TV and online releases under a variety of roles.
+Some of my recent credits include:</p>
 <div class="row">
 	<div class="4u 12u$(small)">
 		<h3>0 K.M. (2018)</h3>
@@ -63,8 +62,6 @@ description: Music Production and Composition
 
 <!-- Content -->
 <!-- <h2 id="content">Sample Content</h2> -->
-<p>Working  as an assistant recording engineer at BlooperHouse Studios, Calcutta before moving to the UK, I worked with a plethora of talent from the Indian Music Industry in various roles. </p>
-
 <p> I have been lucky to work with excellent musicians and producers running recording sessions of various scales in Calcutta, Bombay and London. Some of my credits include: </p>
 <div class="row">
 	<div class="4u 12u$(small)">
