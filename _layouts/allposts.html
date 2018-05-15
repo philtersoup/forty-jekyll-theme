@@ -25,7 +25,7 @@
 		</header>
     {% if post.description %} <p> {{ post.description }} </p> {% endif %}
     {% if post.image %}<span class="spotlights"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-    <p> <a href="{{ post.url }}" class="button"> More Info </a> </p>
+    <p> <a href="{{ site.baseurl }}{{ post.url }}" class="button"> More Info </a> </p>
     <!-- {% if post.date %}<p>{{ post.date }}</p>{% endif %} -->
 		<!-- <p>{{ post.content }}</p> -->
                 {% endfor %}
