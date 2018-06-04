@@ -26,14 +26,14 @@ Paying homage to the works of <a href="https://bit.ly/2J7sUO6"> John Whitney </a
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{{ "/" | relative_url }}/assets/images/aesthesis/Grafix.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="assets/images/aesthesis/TV.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/aesthesis/Wide.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ "/" | relative_url }}/assets/images/aesthesis/TV.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ "/" | relative_url }}/assets/images/aesthesis/Wide.jpg" alt="" /></span></div>
 
-    <div class="6u"><span class="image fit"><img src="assets/images/aesthesis/aesthesis_1.png" alt="" /></span></div>
-    <div class="6u"><span class="image fit"><img src="assets/images/aesthesis/aesthesis_2.png" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="{{ "/" | relative_url }}/assets/images/aesthesis/aesthesis_1.png" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="{{ "/" | relative_url }}/assets/images/aesthesis/aesthesis_2.png" alt="" /></span></div>
 
-    <div class="4u"><span class="image fit"><img src="assets/images/aesthesis/Alt.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="assets/images/aesthesis/Desk.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="assets/images/aesthesis/aesthesis_3.png" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{ "/" | relative_url }}/assets/images/aesthesis/Alt.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{ "/" | relative_url }}/assets/images/aesthesis/Desk.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{ "/" | relative_url }}/assets/images/aesthesis/aesthesis_3.png" alt="" /></span></div>
 	</div>
 </div>
