@@ -15,7 +15,7 @@ This installation fused my personal interests: **generative composition, audio-v
 
 Bespoke hardware and software solutions were created by fusing contemporary techniques of sound and visual manipulation with web-technologies to imbibe audience participation and interaction.
 
-![System Overview]({{site.baseurl}}/assets/images/Aesthesis_Overview_Main.png){:class="image-fit"}
+![System Overview]({{ "/" | relative_url }}/assets/images/Aesthesis_Overview_Main.png){:class="image-fit"}
 
 A **node.js** server was the backbone of this installation, parsing information from mobile audience interaction developed in **p5.js**, and relaying it to 3 stations. Each of these stations further controlled different aspects of the installation.
 
