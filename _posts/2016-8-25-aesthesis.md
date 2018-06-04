@@ -15,7 +15,7 @@ This installation fused my personal interests: **generative composition, audio-v
 
 Bespoke hardware and software solutions were created by fusing contemporary techniques of sound and visual manipulation with web-technologies to imbibe audience participation and interaction.
 
-![System Overview]({{ site.baseurl }}/assets/images/Aesthesis_Overview_Main.png){:class="image-fit"}
+![System Overview]({{ site.url }}/assets/images/Aesthesis_Overview_Main.png){:class="image-fit"}
 
 A **node.js** server was the backbone of this installation, parsing information from mobile audience interaction developed in **p5.js**, and relaying it to 3 stations. Each of these stations further controlled different aspects of the installation.
 
@@ -25,15 +25,15 @@ Paying homage to the works of <a href="https://bit.ly/2J7sUO6"> John Whitney </a
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/aesthesis/Grafix.jpg" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/aesthesis/TV.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/aesthesis/Wide.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.url }}/assets/images/aesthesis/Grafix.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ site.url }}/assets/images/aesthesis/TV.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{ site.url }}/assets/images/aesthesis/Wide.jpg" alt="" /></span></div>
 
-    <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/aesthesis/aesthesis_1.png" alt="" /></span></div>
-    <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/aesthesis/aesthesis_2.png" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="{{ site.url }}/assets/images/aesthesis/aesthesis_1.png" alt="" /></span></div>
+    <div class="6u"><span class="image fit"><img src="{{ site.url }}/assets/images/aesthesis/aesthesis_2.png" alt="" /></span></div>
 
-    <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/aesthesis/Alt.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/aesthesis/Desk.jpg" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/aesthesis/aesthesis_3.png" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{ site.url }}/assets/images/aesthesis/Alt.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{ site.url }}/assets/images/aesthesis/Desk.jpg" alt="" /></span></div>
+    <div class="4u"><span class="image fit"><img src="{{ site.url }}/assets/images/aesthesis/aesthesis_3.png" alt="" /></span></div>
 	</div>
 </div>
