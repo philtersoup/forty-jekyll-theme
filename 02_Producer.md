@@ -16,14 +16,27 @@ description: Music Production | Composition
 
 <!-- Content -->
 <!-- <h2 id="content">Sample Content</h2> -->
-<p>I have worked in the music departments of film, TV and online releases under a variety of roles.
-Some of my recent credits include:</p>
 <div class="row">
 	<div class="4u 12u$(small)">
-		<h3>Afsos (2020)</h3>
-		<p><i>Music Production, Mixing</i></p>
-		<span class="image fit"><img src="assets/images/production_comingSoon.png" alt="" /></span>
+		<h3>RCB Campaign (2020)</h3>
+		<p><i>Music Composition and Production</i></p>
+		<span class="image fit"><img src="assets/images/production_rcb_2020.png" alt="" /></span>
 	</div>
+	<div class="4u 12u$(small)">
+		<h3>Fossils Campaign (2020)</h3>
+		<p><i>Music Composition and Production</i></p>
+		<span class="image fit"><img src="assets/images/production_fossils_2020.png" alt="" /></span>
+	</div>
+	<div class="4u 12u$(small)">
+		<h3>Hasmukh (2020)</h3>
+		<p><i>Music Production, Additional Composition</i></p>
+		<span class="image fit"><img src="assets/images/production_hasmukh_2020.jpg" alt="" /></span>
+	</div>
+	<div class="4u 12u$(small)">
+		<h3>Afsos (2020)</h3>
+		<p><i>Music Production, Additional Composition</i></p>
+		<span class="image fit"><img src="assets/images/production_afsos_2020.png" alt="" /></span>
+	</div> 
 	<div class="4u 12u$(small)">
 		<h3>Little Things Season 3 (2019)</h3>
 		<p><i>Music Production, Mixing</i></p>
@@ -92,7 +105,6 @@ Some of my recent credits include:</p>
 
 <!-- Content -->
 <!-- <h2 id="content">Sample Content</h2> -->
-<p> I have been lucky to work with excellent musicians and producers running recording sessions of various scales in Calcutta, Bombay and London. Some of my credits include: </p>
 <div class="row">
 	<div class="4u 12u$(small)">
 	<h3>Doktor Gandu: Republic of Gandu</h3>

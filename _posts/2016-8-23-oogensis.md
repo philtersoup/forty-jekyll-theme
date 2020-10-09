@@ -19,7 +19,7 @@ I wrote the initial code as a big old monolith. 1000+ lines, in 1 file. **OHH TH
 
 ![]({{ "/" | relative_url }}/assets/images/rna/oogenesis/theHorror.png)
 
-With the help of my house-mate / friend and professional software developer <a href="https://www.jackdanielharding.com/"> Jack </a>, we were able to move everything across to their own classes, have a directory structure that was maintainable, and even make our codebase re-usable to the point that when I was  prototyping firmware for a new module few days back, it took me 15 minutes to get the basic functionalities up and going!
+With the help of my house-mate / friend and professional software developer <a href="https://www.jackdanielharding.com/"> Jack </a>, we were able to move everything across to their own classes, have a directory structure that was maintainable, and even make our codebase re-usable to the point that when I was  prototyping firmware for a new module few days back, it took me 15 minutes to get the basic functionalities up and running!
 
 ![]({{ "/" | relative_url }}/assets/images/rna/oogenesis/noooice.png)
 
