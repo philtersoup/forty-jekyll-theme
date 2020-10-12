@@ -9,7 +9,7 @@
 	#banner {
 		@include vendor('align-items', 'center');
 		// @include vendor('background-image', 'url("http://i.imgur.com/3iwNUqD.gif")');
-		@include vendor('background-image', 'url("../images/philterSoup_splash.gif")');
+		@include vendor('background-image', 'url("https://media.giphy.com/media/C5Di3VBKvr3Y2ji5Au/giphy.gif")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
