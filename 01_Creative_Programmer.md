@@ -17,15 +17,22 @@ description: Computational Art | Physical Computing
 <!-- Content -->
 <!-- <h2 id="content">The What</h2> -->
 <p>I create  interfaces for artistic expression across sonic and visual mediums.
- I conceptualise, design and execute projects involving multiple facets of technology, tied together with bespoke hardware and software solutions. My work involves creating visceral experiences focussing on  <b> Interactivity </b> and <b> Autonomy </b>.
+ I conceptualise, design and execute projects involving bespoke hardware and software solutions. My work involves creating visceral experiences focussing on  <b> Interactivity </b> and <b> Immediacy </b>.
 I explore the domains of:
 <li> <strong> Interactive Audio-Visual Installations  </strong>
-<li> <strong> Interactive Audio-Visual Pieces </strong>
+<li> <strong> Interactive Augmented/Mixed Reality Pieces </strong>
 <li> <strong> Physical Interfaces for Sound & Video Synthesis </strong>
 <br>
-<br>
-
 Some of my recent projects are listed <i> below.</i>
+<hr class="major" />
+<h4>AR Filters for Instagram</h4>
+	<i>Interactive augmented reality filters for Instagram and Facebook paying homage to the idiosyncracies of analog video synthesis.</i>
+	<div class="row">
+	<br>
+	<div class="4u"> <span class="image centered"><a href="https://www.instagram.com/ar/475084253392833/"><img src="https://media.giphy.com/media/CQGRD571xnPDS8WfsZ/giphy.gif" alt="" /></a></span> </div>
+	<div class="4u"> <span class="image centered"><a href="https://www.instagram.com/ar/286378489121535/"><img src="https://media.giphy.com/media/DRSROBkpdVA5zcDzwb/giphy.gif" alt="" /> </a></span> </div>
+	<div class="4u"> <span class="image centered"><a href="https://www.instagram.com/ar/475084253392833/"><img src="https://media.giphy.com/media/fd4eHWhnXdCvEukYQs/giphy.gif" alt="" /></a></span> </div>
+	</div>
 <hr class="major" />
 <h4>Aesthesis</h4>
 	<i>Networked audio-visual site-specific installation exploring relationships between space, time and audience interaction. London 2017.</i>
@@ -73,3 +80,41 @@ Some of my recent projects are listed <i> below.</i>
 			<div class="6u"> <span class="image centered"><img src="assets/images/crp_vcvm_3.png" alt="" /></span> </div>
 			</div>
 <hr class="major" />
+<footer id="footer">
+		<div class="inner">
+			<ul class="icons">
+				{% if site.twitter_url %}
+				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+				{% endif %}
+				{% if site.googleplus_url %}
+				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+				{% endif %}
+				{% if site.facebook_url %}
+				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+				{% endif %}
+				{% if site.instagram_url %}
+				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				{% endif %}
+				{% if site.pinterest_url %}
+				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+				{% endif %}
+				{% if site.gitlab_url %}
+				<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
+				{% endif %}
+				{% if site.github_url %}
+				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				{% endif %}
+				{% if site.slack_url %}
+				<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+				{% endif %}
+				{% if site.linkedin_url %}
+				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+				{% endif %}
+			</ul>
+			<ul class="copyright">
+				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+
+
+			</ul>
+		</div>
+	</footer>

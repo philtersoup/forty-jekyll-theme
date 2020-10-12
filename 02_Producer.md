@@ -71,6 +71,8 @@ description: Music Production | Composition
 		<p><i>Music Production, Additional Composition</i></p>
 		<span class="image fit"><a href="https://www.imdb.com/title/tt9359294/?ref_=fn_al_tt_1"><img src="assets/images/production_hasmukh_2020.jpg" alt="" /></a></span>
 	</div>
+</div>
+<div class="row">
 	<div class="4u 12u$(small)">
 		<h3>Afsos (2020)</h3>
 		<p><i>Music Production, Additional Composition</i></p>
@@ -86,6 +88,8 @@ description: Music Production | Composition
 		<p><i>Music Production, Mixing</i></p>
 		<span class="image fit"><a href="https://www.imdb.com/title/tt9271162/?ref_=nv_sr_srsg_0"><img src="assets/images/production_TST_2019.jpeg" alt="" /></a></span>
 	</div>
+</div>
+<div class="row">
 	<div class="4u 12u$(small)">
 		<h3>Why Cheat India (2019)</h3>
 		<p><i>Music Production, Mixing</i></p>
@@ -101,6 +105,8 @@ description: Music Production | Composition
 		<p><i>Music Production, Mixing</i></p>
 		<span class="image fit"><a href="https://www.imdb.com/title/tt6522580/episodes?season=3&ref_=tt_eps_sn_3"><img src="assets/images/production_LT2_2018.jpg" alt="" /></a></span>
 	</div>
+</div>
+<div class="row">
 	<div class="4u 12u$(small)">
 		<h3>0 K.M. (2018)</h3>
 		<p><i>Music Production (OST), Mixing</i></p>
@@ -116,6 +122,8 @@ description: Music Production | Composition
 		<p><i>Music Production</i></p>
 		<span class="image fit"><a href="https://www.imdb.com/title/tt6883044/?ref_=nv_sr_srsg_3"><img src="assets/images/production_bose_2017.jpg" alt="" /></a></span>
 	</div>
+</div>
+<div class="row">
 	<div class="4u 12u$(small)">
 		<h3>Laakhon Mein Ek (2017)</h3>
 		<p><i>Music Production (OST), Mixing</i></p>
@@ -157,6 +165,8 @@ description: Music Production | Composition
 		<p><i>Recording Engineer</i></p>
 		<span class="image fit"><a href="https://soundcloud.com/ganeshtalkies/sets/the-great-indian-freak-show-1"><img src="assets/images/eng_gt_2017.jpg"></a></span>
 	</div>
+</div>
+<div class="row">
 	<div class="4u 12u$(small)">
 		<h3>Run It's the Kid</h3>
 		<p><i>Recording Engineer</i></p> 
@@ -174,5 +184,46 @@ description: Music Production | Composition
 	</div>
 </div>
 <hr class="major" />
+
+<footer id="footer">
+		<div class="inner">
+			<ul class="icons">
+				{% if site.twitter_url %}
+				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+				{% endif %}
+				{% if site.googleplus_url %}
+				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+				{% endif %}
+				{% if site.facebook_url %}
+				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+				{% endif %}
+				{% if site.instagram_url %}
+				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				{% endif %}
+				{% if site.pinterest_url %}
+				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+				{% endif %}
+				{% if site.gitlab_url %}
+				<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
+				{% endif %}
+				{% if site.github_url %}
+				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				{% endif %}
+				{% if site.slack_url %}
+				<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+				{% endif %}
+				{% if site.linkedin_url %}
+				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+				{% endif %}
+			</ul>
+			<ul class="copyright">
+				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+
+
+			</ul>
+		</div>
+	</footer>
+
+</div>
 
 
