@@ -20,10 +20,24 @@ description: Computational Art | Physical Computing
  I conceptualise, design and execute projects involving bespoke hardware and software solutions. My work involves creating visceral experiences focussing on  <b> Interactivity </b> and <b> Immediacy </b>.
 I explore the domains of:
 <li> <strong> Interactive Audio-Visual Installations  </strong>
-<li> <strong> Interactive Augmented/Mixed Reality Pieces </strong>
+<li> <strong> Augmented/Mixed Reality Pieces </strong>
 <li> <strong> Physical Interfaces for Sound & Video Synthesis </strong>
 <br>
 Some of my recent projects are listed <i> below.</i>
+<hr class="major" />
+<h4>Embedded Development</h4>
+	<i>Freelance embedded development work in Arduino, Teensy and ARM STM32 platforms for synthesizers and pro-audio gear. My work mostly focuses on user interface, digital control of discrete analog components and DSP.</i>
+	<div class="row">
+	<br>
+	<div class="4u"> <span class="image centered"><img src="assets/images/rna/oogenesis/outdoor.jpg" alt="" /></span> </div>
+	<div class="4u"> <span class="image centered"><img src="assets/images/rna/oogenesis/meters.gif" alt="" /></span> </div>
+	<div class="4u"> <span class="image centered"><img src="assets/images/rna/brownian/brownian1.png" alt="" /></span> </div>
+	</div>
+	<div class="row">
+	<div class="4u"> <span class="image centered"><img src="assets/images/rna/brownian/brownian2.png" alt="" /></span> </div>
+	<div class="4u"> <span class="image centered"><img src="assets/images/rna/oogenesis/onTheBench.jpg" alt="" /></span> </div>
+	<div class="4u"> <span class="image centered"><img src="assets/images/rna/brownian/brownian4.png" alt="" /></span> </div>
+	</div>
 <hr class="major" />
 <h4>AR Filters for Instagram</h4>
 	<i>Interactive augmented reality filters for Instagram and Facebook paying homage to the idiosyncracies of analog video synthesis.</i>
